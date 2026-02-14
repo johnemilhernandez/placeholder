@@ -233,7 +233,6 @@
       <tr><td><img src="/distance-between-countries/flags/za.svg" width="48" height="36"></td><td><a href="/distance-between-countries/countries/za.html">	South Africa	</a></td><td>		 km</td></tr>
       <tr><td><img src="/distance-between-countries/flags/zm.svg" width="48" height="36"></td><td><a href="/distance-between-countries/countries/zm.html">	Zambia	</a></td><td>		 km</td></tr>
       <tr><td><img src="/distance-between-countries/flags/zw.svg" width="48" height="36"></td><td><a href="/distance-between-countries/countries/zw.html">	Zimbabwe	</a></td><td>		 km</td></tr>
-
       <tr><td><img src="/distance-between-countries/flags/bz.svg" width="48" height="36"></td><td><a href="/distance-between-countries/countries/bz.html">	Belize	</a></td><td>		 km</td></tr>
       <tr><td><img src="/distance-between-countries/flags/dj.svg" width="48" height="36"></td><td><a href="/distance-between-countries/countries/dj.html">	Djibouti	</a></td><td>		 km</td></tr>
       <tr><td><img src="/distance-between-countries/flags/ge.svg" width="48" height="36"></td><td><a href="/distance-between-countries/countries/ge.html">	Georgia	</a></td><td>		 km</td></tr>
